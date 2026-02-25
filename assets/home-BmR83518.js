@@ -1,1 +1,0 @@
-import{h as o}from"./chunk-4LKRSAEJ-CpBfMoCI.js";import{w as t,l as e,N as r}from"./chunk-JZWAC4HX-BUE1uEIs.js";const m=t(function(){return e.jsx(r,{to:o("/planner"),replace:!0})});export{m as default};
