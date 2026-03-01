@@ -1,0 +1,1 @@
+import{a as r}from"./AuthProvider-CTCVJJN-.js";import{a as o}from"./chunk-JZWAC4HX-ChQtRLai.js";function s(){const t=o.use(r);if(!t)throw new Error("useAuth must be used within an AuthProvider");return t}export{s as u};

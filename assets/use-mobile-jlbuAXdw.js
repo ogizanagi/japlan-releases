@@ -1,0 +1,1 @@
+import{a as n}from"./chunk-JZWAC4HX-ChQtRLai.js";const o=768;function r(){const[a,t]=n.useState(!1);return n.useEffect(()=>{const e=window.matchMedia(`(max-width: ${o-1}px)`),s=()=>t(e.matches);return e.addEventListener("change",s),t(e.matches),()=>e.removeEventListener("change",s)},[]),a}export{r as u};
