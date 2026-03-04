@@ -1,1 +1,0 @@
-const a={build:{version:"0.0.1",commitHash:"16a9ad2"},supabase:{url:"https://kmjhqhvdxqnbkcwjunrj.supabase.co",publishableKey:"sb_publishable_ysSUndrbJvEauZTIvjTN5Q_Uusj4O3L",storageKey:"japlan-auth-token"}};export{a as c};
