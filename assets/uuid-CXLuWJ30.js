@@ -1,0 +1,1 @@
+const t=typeof crypto<"u"&&typeof crypto.randomUUID=="function"?crypto.randomUUID.bind(crypto):void 0;function o(){return t?t():"10000000-1000-4000-8000-100000000000".replace(/[018]/g,n=>(+n^crypto.getRandomValues(new Uint8Array(1))[0]&15>>+n/4).toString(16))}export{o as g};
