@@ -1,0 +1,1 @@
+import{l as t}from"./chunk-LFPYN7LY-CnU3qFER.js";import{a as s,c as n}from"./config-HHKbWX4R.js";function a({className:e,style:o}){return t.jsxs("span",{className:n("text-[10px] text-muted-foreground/50 select-none",e),style:o,children:["v",s.build.version," (",s.build.commitHash,")"]})}export{a as V};
